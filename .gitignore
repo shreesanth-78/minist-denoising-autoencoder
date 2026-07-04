@@ -1,0 +1,18 @@
+# Project Data & Models
+data/
+models/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.env
