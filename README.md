@@ -64,3 +64,7 @@ The concepts demonstrated in this project extend far beyond the MNIST dataset in
    ```bash
    git clone [https://github.com/shreesanth-78/minist-denoising-autoencoder.git](https://github.com/shreesanth-78/minist-denoising-autoencoder.git)
    cd minist-denoising-autoencoder
+
+## 🎓 Authors & Citation
+**Shree Santh B, Kirupashankar Chockkanathan, Padmacharan R, Prapanjan I**  
+*Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham, India*
